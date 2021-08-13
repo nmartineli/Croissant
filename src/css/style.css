@@ -32,5 +32,6 @@ p {
 img {
   display: block;
   margin: 20px auto;
-  width: 800px;
+  max-width: 800px;
+  border-radius: 10px;
 }
